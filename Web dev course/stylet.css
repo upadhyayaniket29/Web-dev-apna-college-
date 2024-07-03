@@ -1,0 +1,21 @@
+h2{
+    text-align: start;
+    /* Text alignment is right or left from the parent elememt not from document */
+    width: 50%;
+    font-weight: bold;
+    text-decoration-style: invert ;
+}
+p{
+    text-align: end;
+    font-weight: bolder;
+    text-decoration: pink line-through ;
+    text-decoration-style:double ;
+}
+h3{
+    text-decoration: overline;
+    text-decoration-color:red ;
+    text-decoration-style:wavy ;
+}
+a{
+    text-decoration: none;
+}
