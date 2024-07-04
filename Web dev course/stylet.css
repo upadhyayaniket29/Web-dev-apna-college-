@@ -4,17 +4,25 @@ h2{
     width: 50%;
     font-weight: bold;
     text-decoration-style: invert ;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 p{
     text-align: end;
     font-weight: bolder;
     text-decoration: pink line-through ;
     text-decoration-style:double ;
+    line-height: 2.5;
+    letter-spacing: 10px;
+    font-size: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 h3{
     text-decoration: overline;
     text-decoration-color:red ;
     text-decoration-style:wavy ;
+    letter-spacing: 5px;
+    font-family: avant garde ,didot,serif;
 }
 a{
     text-decoration: none;
