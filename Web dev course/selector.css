@@ -1,0 +1,16 @@
+h1{
+    color:#A82400;
+}
+#login{
+    background-color: white;
+
+}
+#signup{
+    background-color: #A82400;
+    color: white;
+}
+
+.upvote{
+    background-color: green;
+    color: aliceblue;
+}
