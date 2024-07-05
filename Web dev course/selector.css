@@ -14,3 +14,21 @@ h1{
     background-color: green;
     color: aliceblue;
 }
+/* descendant selector */
+p a {
+    color: purple;
+    background-color: yellow;
+}
+nav  a{
+    color: hotpink;
+}
+p + h3{
+    text-decoration: underline;
+}
+.upvote + button{
+    background-color: cornflowerblue;
+    color: blue;
+}
+div >input{
+    background-color: darksalmon;
+}
