@@ -32,3 +32,21 @@ p + h3{
 div >input{
     background-color: darksalmon;
 }
+/* input[type="text"]{
+    color: red;
+
+}
+
+input[type="password"]{
+    color: green;
+} */
+
+input[type~="text"] {
+    background-color: ghostwhite;
+}
+/* input[type$="password"] {
+    background-color: yellow;
+} */
+input[type*="password"] {
+    background-color: red;
+}
