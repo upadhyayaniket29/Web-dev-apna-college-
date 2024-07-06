@@ -1,5 +1,5 @@
 h1{
-    color:#A82400;
+    color:green !important;
 }
 #login{
     background-color: white;
@@ -49,4 +49,7 @@ input[type~="text"] {
 } */
 input[type*="password"] {
     background-color: red;
+}
+h1{
+    color:blue;
 }
