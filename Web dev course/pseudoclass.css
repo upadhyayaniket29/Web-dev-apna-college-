@@ -1,0 +1,19 @@
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    text-decoration: overline;
+}
+button:active{
+    background-color: hotpink;
+}
+p:active{
+    font-weight: bold;
+    color: green;
+} 
+/* used attribute selector checked pseudo class and than sibling combinator */
+input[type="radio"]:checked+ label{
+    color: red;
+    font-weight: bold;
+}
