@@ -17,3 +17,18 @@ input[type="radio"]:checked+ label{
     color: red;
     font-weight: bold;
 }
+h1::first-letter{
+    color: green;
+}
+
+
+p::first-line{
+    color: aqua;
+    
+}
+p::selection{
+    background-color: yellowgreen;
+}
+p::spelling-error{
+    color: red;
+}
