@@ -1,4 +1,19 @@
 div{
     height: 200px;
-    /* width: 500px; */
+    width: 500px;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: blue; */
+    border: 5px solid yellow;
+    background-color: pink;
+    border-right: dashed;
+    border-top: 10px dotted cornflowerblue;
+    /* border-radius: 15px; */
+    border-radius: 50px;
+    border-top-right-radius:10px ;
+}
+h1{
+    border-color: red;
+    border-style: dotted;
+    border-width: 10px;
 }
