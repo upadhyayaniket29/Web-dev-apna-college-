@@ -11,9 +11,25 @@ div{
     /* border-radius: 15px; */
     border-radius: 50px;
     border-top-right-radius:10px ;
+    padding-top: 10px;
+    /* margin-bottom: 25px;
+    margin-left: 15px; */
+    margin: 10px 20px 30px;
+    margin: 10px 20px 30px 40px;
 }
 h1{
     border-color: red;
     border-style: dotted;
     border-width: 10px;
+    padding: 0px 20px 0px 20px ;
+    margin: 0;
+}
+button{
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: yellow;
+    /* padding: 5px; */
+    padding: 10px 20px 30px 40px;
+    margin: 10px 20px 30px;
+
 }
