@@ -1,0 +1,32 @@
+/* h2{
+    display: inline;
+    border: 2px solid blue;
+    background-color: yellow;
+}
+span{
+    display: block;
+    border: 2px solid red;
+    background-color: aqua;
+    margin: 10px;
+} */
+
+span{
+    border: 2px solid red;
+    background-color: aqua;
+    height: 100px;
+    width: 200px;
+    padding: 50px;
+    margin: 20px;
+
+    /* margin and padding properties applied only on left and right side only and not on top and bottom */
+    /* height and width are not applied in span element */
+}
+
+div{
+    border: 2px solid red;
+    background-color: aqua;
+    height: 100px;
+    width: 200px;
+    padding: 50px;
+    margin: 20px;
+}
