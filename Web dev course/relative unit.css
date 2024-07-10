@@ -1,0 +1,26 @@
+/* div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: lightgreen;
+}
+.aspNetHidden {
+    display: none;
+} */
+ h1{
+    border: 2px solid black;
+    width: 33.33%;
+    background-color: aqua;
+ }
+ #outer{
+    height: 400px;
+    width: 400px;
+    background-color: lightcoral;
+    margin: 10px;
+ }
+ #inner{
+background-color: greenyellow;
+height: 100px;
+width: 100px;
+margin: 50%;
+ }
