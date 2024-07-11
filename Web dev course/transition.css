@@ -1,0 +1,21 @@
+/* div{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    transition: 2s;
+} */
+ div{
+    background-color: yellow;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+
+ }
+ div:hover{
+    background-color: red;
+    margin: 10px;
+    transition: 1s;
+    transition-delay:2s ;
+    border-radius: 50%;
+ }
