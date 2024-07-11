@@ -18,4 +18,15 @@
     transition: 1s;
     transition-delay:2s ;
     border-radius: 50%;
+    transform: rotate(45deg);
+ }
+ #one:hover{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    transform: rotate(90deg);
+    transform: scale(2);
+    transform: translate(20px);
+    transform: translatex(30px);
+    
  }
