@@ -39,4 +39,5 @@
    transform: skew(25deg);
    transform: scale(2);
    margin: 10px;
+   transition-behavior: allow-discrete;
  }
