@@ -12,14 +12,14 @@
     width: 100px;
 
  }
- div:hover{
+ /* div:hover{
     background-color: red;
     margin: 10px;
     transition: 1s;
     transition-delay:2s ;
     border-radius: 50%;
-    transform: rotate(45deg);
- }
+    transform: rotate(45deg); */
+ /* } */
  #one:hover{
     background-color: aqua;
     height: 100px;
@@ -29,4 +29,14 @@
     transform: translate(20px);
     transform: translatex(30px);
     
+ }
+ #four{
+   transform: skew(30deg);
+
+ }
+ #five{
+   transform: rotate(20deg);
+   transform: skew(25deg);
+   transform: scale(2);
+   margin: 10px;
  }
