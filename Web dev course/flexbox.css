@@ -5,4 +5,11 @@ div{
     color: red;
     display: flex;
     border: 2px solid black;
+    
+}
+div:hover{
+    flex-direction: column;
+    transform: rotate(180deg);
+    border-radius: 50%;
+    transition-duration: 1s;
 }
