@@ -1,0 +1,11 @@
+div{
+    height: 10px;
+    width: 10px;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: yellow;
+    justify-content: flex-end;
+
+}
